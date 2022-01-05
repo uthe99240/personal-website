@@ -1,6 +1,6 @@
 
 .orange-clr{
-    color: orange;
+    color: orangered;
 }
 
 h1{
@@ -10,7 +10,7 @@ h1{
 }
 
 .sec-one{
-    height: 500px;
+    height: 450px;
     width: 100%;
     display: flex;
 }
@@ -18,13 +18,14 @@ h1{
 .half-width{
     width: 50%;
     margin-left: 100px;
-    margin-top: 50px;
+    
 }
 
 p{
     text-align: justify;
     font-size: 20px;
     height: 120px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .button{
@@ -44,4 +45,58 @@ p{
     border-left: 5px solid;
     border-image: linear-gradient(salmon ,tomato);
     border-image-slice: 1;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.sec-two{
+    height: 450px;
+    width: 100%;
+}
+
+.illustrators{
+    width: 85%;
+    display: flex;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.ils-one{
+    height: 350px;
+    width: 34%; 
+    background-image: linear-gradient(rgb(157, 192, 233),rgb(79, 166, 236));
+    margin: 5px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ils-two{
+    height: 350px;
+    width: 34%;
+    background-image: linear-gradient(rgb(218, 150, 139),rgb(212, 107, 89));
+    margin: 5px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.ils-three{
+    height: 350px;
+    width: 34%;
+    background-image: linear-gradient(rgb(139, 218, 143),rgb(70, 187, 96));
+    margin: 5px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    height: 10px;
 }
