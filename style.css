@@ -51,6 +51,7 @@ h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     font-size: xx-large;
+    font-weight: 800;
 }
 
 .sec-two{
@@ -69,7 +70,7 @@ h2{
     height: 350px;
     width: 34%; 
     background-image: linear-gradient(rgb(157, 192, 233),rgb(79, 166, 236));
-    margin: 5px;
+    margin: 10px;
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
@@ -79,7 +80,7 @@ h2{
     height: 350px;
     width: 34%;
     background-image: linear-gradient(rgb(218, 150, 139),rgb(212, 107, 89));
-    margin: 5px;
+    margin: 10px;
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
@@ -89,7 +90,7 @@ h2{
     height: 350px;
     width: 34%;
     background-image: linear-gradient(rgb(139, 218, 143),rgb(70, 187, 96));
-    margin: 5px;
+    margin: 10px;
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
@@ -99,4 +100,62 @@ h3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: x-large;
     height: 10px;
+}
+
+.sec-three{
+    height: 450px;
+    width: 80%;
+    margin-top: 80px;
+    padding-left: 90px;
+    display: flex;
+}
+
+
+.two-third-width{
+    padding-left: 60px;
+}
+
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    height: 10px;
+    font-weight: 800;
+}
+
+.sec-four{
+    height: 350px;
+    width: 80%;
+    display: flex;
+    padding-left: 90px;
+}
+
+.first-width{
+    padding-right: 60px;
+}
+
+h5{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h6{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+footer{
+    height: 140px;
+    background-color: black;
+    margin-top: 10px;
+}
+
+.tomato{
+    color: tomato;
 }
