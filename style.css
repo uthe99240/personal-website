@@ -57,6 +57,7 @@ h2{
 .sec-two{
     height: 450px;
     width: 100%;
+    
 }
 
 .illustrators{
@@ -74,6 +75,7 @@ h2{
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 20px;
 }
 
 .ils-two{
@@ -84,6 +86,7 @@ h2{
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 20px;
 }
 
 .ils-three{
@@ -94,6 +97,7 @@ h2{
     border-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
+    padding-bottom: 20px;
 }
 
 h3{
